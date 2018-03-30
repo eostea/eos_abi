@@ -1,7 +1,7 @@
 # eos_abi
 eos智能合约abi说明文档生成脚本中文版
 
-** 翻译自[eos官方github](https://github.com/EOSIO/eos/blob/master/scripts/abi_to_rc/abi_to_rc.py)**
+**  翻译自[eos官方github](https://github.com/EOSIO/eos/blob/master/scripts/abi_to_rc/abi_to_rc.py) **
 # 目的
 
 'abi_to_rc.py`脚本处理合同的.abi文件，以便概览Ricardian合约和Ricardian合约的每个操作。 概述Ricardian合约提供合约目的的描述，并指定合约的操作，输入和输入类型。 它为Ricardian合约提供了行为目的
